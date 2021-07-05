@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    box-sizing:border-box;
+
+}
+.sidediv{
+    
+    display:flex;
+    flex-direction:column;
+    width:7vw;
+    height:100vh;
+    
+}
+.icon{
+ width:7vw;
+ display:flex;
+ flex-direction:column;
+ text-align:center;
+ align-items:center;
+ font-size:20px;
+ padding:10px;
+ color:rgb(118, 97, 238);
+ 
+ 
+ }
+span{
+    font-size:10px;
+  
+}
